@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Shanghai Jiaotong University. My research interest includes computer vision, computer graphics, and machine learning.
+I'm a second year undergraduate student from Shanghai Jiaotong University. My research interest includes computer vision, computer graphics, and machine learning.
 
 [Email]（luoatong@sjtu.edu.cn）
 [Github]（https://github.com/at1005）
